@@ -20,9 +20,9 @@ cd FabeltCloning
 
 python2 FabeltCloning.py
 
-# Tool Name :-   "Fabelt"
+# Tool Name :-   "fabelt"
 # Password. :-   " Facebook "
 
-my whatsapp Number : +2349017545298
+my whatsapp Number : # +2349017545298
 
 
